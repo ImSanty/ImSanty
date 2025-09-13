@@ -63,7 +63,7 @@
 ### Tooling & Build Systems
 <p>
   <img alt="npm" title="npm" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img alt="Maven" title="Maven" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" />
+  <img alt="Maven" title="Maven" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" />
   <img alt="Git" title="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="SemVer" title="SemVer" height="22" src="https://img.shields.io/badge/semver-versioning-7950f2?labelColor=1b1f24&style=for-the-badge" />
   <img alt="Packaging" title="Packaging/Compression" height="22" src="https://img.shields.io/badge/Packaging-7z%20%7C%20zip-868e96?labelColor=1b1f24&style=for-the-badge" />
