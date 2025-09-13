@@ -12,11 +12,10 @@
 
 ## 🚀 Featured Projects
 
-- [DoceniaAPI](https://github.com/ImSanty/DoceniaAPI) — Node.js/Express REST API (PostgreSQL/SQLite, OAuth2, bcrypt)
-- [Docenia](https://github.com/ImSanty/Docenia) — Frontend/client for Docenia ecosystem
 - [VoxeliteLauncher](https://github.com/ImSanty/VoxeliteLauncher) — Desktop Minecraft launcher (Electron, auto-updates)
 - [voxelengine](https://github.com/ImSanty/voxelengine) — Java + LWJGL engine with GLSL shaders
-- [minecraft-java-core](https://github.com/ImSanty/minecraft-java-core) — Core tooling for Minecraft Java (TypeScript/JS, NW.js integration)
+- [Docenia](https://github.com/ImSanty/Docenia) — Frontend/client for Docenia ecosystem
+- [DoceniaAPI](https://github.com/ImSanty/DoceniaAPI) — Node.js/Express REST API (PostgreSQL/SQLite, OAuth2, bcrypt)
 
 ---
 
