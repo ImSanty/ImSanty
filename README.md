@@ -2,7 +2,6 @@
 <p align="center">
   Building Minecraft tooling, voxel engines, and web APIs.
 </p>
-
 <p align="center">
   <a href="https://github.com/ImSanty"><img src="https://img.shields.io/badge/GitHub-ImSanty-181717?logo=github&logoColor=white" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/Focus-Minecraft%20Launchers%20%7C%20Voxel%20Engine%20%7C%20APIs-0366d6" alt="Focus">
@@ -13,12 +12,12 @@
 ## 🚀 Featured Projects
 
 - [VoxeliteLauncher](https://github.com/ImSanty/VoxeliteLauncher) — Desktop Minecraft launcher (Electron, auto-updates)
+- [VoxeliteAPI](https://github.com/ImSanty/VoxeliteAPI) — REST API for Voxelite projects
 - [VoxelEngine](https://github.com/ImSanty/voxelengine) — Java + LWJGL engine with GLSL shaders
 - [Docenia](https://github.com/ImSanty/Docenia) — Frontend/client for Docenia ecosystem
 - [DoceniaAPI](https://github.com/ImSanty/DoceniaAPI) — Node.js/Express REST API (PostgreSQL/SQLite, OAuth2, bcrypt)
-- [VoxeliteAPI](https://github.com/ImSanty/VoxeliteAPI) — REST API for Voxelite projects
-- [Website](https://github.com/ImSanty/Website) — Personal website
 - [Moodles](https://github.com/ImSanty/Moodles) — Moodle-related tools
+- [Website](https://github.com/ImSanty/Website) — Personal website
 
 ---
 
@@ -46,6 +45,15 @@
   <img alt="OAuth 2.0" title="OAuth 2.0" height="22" src="https://img.shields.io/badge/OAuth-2.0-5f3dc4?labelColor=1b1f24&style=for-the-badge" />
   <img alt="bcrypt" title="bcrypt" height="22" src="https://img.shields.io/badge/bcrypt-crypto-2b8a3e?labelColor=1b1f24&style=for-the-badge" />
   <img alt="CORS" title="CORS" height="22" src="https://img.shields.io/badge/CORS-enabled-495057?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="dotenv" title="dotenv" height="22" src="https://img.shields.io/badge/dotenv-config-6f42c1?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="helmet" title="helmet" height="22" src="https://img.shields.io/badge/helmet-security-0d6efd?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="morgan" title="morgan" height="22" src="https://img.shields.io/badge/morgan-logging-17a2b8?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="compression" title="compression" height="22" src="https://img.shields.io/badge/compression-performance-20c997?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="google-auth-library" title="google-auth-library" height="22" src="https://img.shields.io/badge/google--auth--library-oauth-ea4335?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="node-fetch" title="node-fetch" height="22" src="https://img.shields.io/badge/node--fetch-fetch-0d6efd?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="puppeteer" title="puppeteer" height="22" src="https://img.shields.io/badge/puppeteer-headless--chrome-343a40?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="multer" title="multer" height="22" src="https://img.shields.io/badge/multer-multipart--forms-6f42c1?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="form-data" title="form-data" height="22" src="https://img.shields.io/badge/form--data-upload-20c997?labelColor=1b1f24&style=for-the-badge" />
 </p>
 
 ### Desktop App Development
@@ -70,16 +78,20 @@
   <img alt="Git" title="Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="SemVer" title="SemVer" height="22" src="https://img.shields.io/badge/semver-versioning-7950f2?labelColor=1b1f24&style=for-the-badge" />
   <img alt="Packaging" title="Packaging/Compression" height="22" src="https://img.shields.io/badge/Packaging-7z%20%7C%20zip-868e96?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="Docker" title="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Alpine" title="Alpine" height="22" src="https://img.shields.io/badge/Alpine-Linux-0f5132?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="Dokploy" title="Dokploy" height="22" src="https://img.shields.io/badge/Dokploy-deploy-6610f2?labelColor=1b1f24&style=for-the-badge" />
+  <img alt="nodemon" title="nodemon" height="22" src="https://img.shields.io/badge/nodemon-dev-20c997?labelColor=1b1f24&style=for-the-badge" />
 </p>
 
 <details>
 <summary>Accessible list view</summary>
 
 - Languages: TypeScript, JavaScript, Java, GLSL, HTML, CSS, PHP
-- Backend & APIs: Node.js, Express, PostgreSQL, SQLite, REST, OAuth 2.0, bcrypt, CORS
+- Backend & APIs: Node.js (>=18), Express, PostgreSQL, SQLite, REST, OAuth 2.0, bcrypt, CORS, dotenv, helmet, morgan, compression, google-auth-library, node-fetch, puppeteer, multer, form-data
 - Desktop Apps: Electron, NW.js, auto-updates
 - Game/Graphics: LWJGL, OpenGL, GLSL shaders, textures/PNG
-- Tooling: npm, Maven, Git, semver, packaging (zip/7z)
+- Tooling: npm, Maven, Git, semver, packaging (zip/7z), Docker (Alpine), Dokploy, nodemon
 </details>
 
 ---
